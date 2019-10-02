@@ -1,0 +1,20 @@
+Funcionalidades do MDF (Master Data Fábrica)
+	- Criar Tipo de Máquina e associar as operações.
+	- Criar Máquinas e definir Tipo de Máquina.
+	- Criar Linha de Produção e definir Máquinas.
+	- Criar Operação.
+	- Alterar Operações do Tipo de Máquina.
+	- Alterar Tipo de Máquina.
+	- (Alterar Linha de Produção)
+	- Consultar informação do Tipo de Máquina.
+	- Consultar Operações do Tipo de Máquina.
+	- Consultar Máquina.
+	- (Consultar Linha de Produção)
+	- Eliminar Tipo de Máquina.
+	- Eliminar Operação do Tipo de Máquina.
+	- Eliminar Máquina.
+	
+Funcionalidades do MDP (Master Data Produto)
+	- Criar Produto.
+	- Consultar Produto.
+	- Consultar Plano de Fabrico.
