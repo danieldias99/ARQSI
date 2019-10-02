@@ -1,0 +1,11 @@
+VSCode (estrutura exemplo)
+    vMDF
+	- .uscode
+	- bin
+	- vModel
+	     - vMaquina
+		  - Maquina.es (public class Maquina: Entity, IAggregateRoot)
+	- vshared
+	     - Entity.es (public abstract class Entity)
+	     - IValueObject.es (public interface IValueObject)
+	     - IAggregateRoot.es (public interface IAggregateRoot)
